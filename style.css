@@ -27,11 +27,6 @@ centralizer {
     align-items: center;
 }
 
-.butao-ok {
-    height: 25px;
-    border: 3px solid green;
-}
-
 
 .rodape {
     border: 1px dotted;
@@ -42,4 +37,5 @@ centralizer {
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
+    background-color: black;
 }
