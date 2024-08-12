@@ -25,5 +25,6 @@ centralizer {
 
 
 .rodape {
-    
+    position: absolute;
+    bottom: 0;
 }
